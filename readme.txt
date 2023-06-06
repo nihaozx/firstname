@@ -7,4 +7,4 @@ creating a new branch is quick and simple.
 
 new branch dev
 
-new branch master
+new new branch master
