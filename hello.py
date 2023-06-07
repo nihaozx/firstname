@@ -4,4 +4,5 @@ print('hello,',msg)
 print('push access')
 print('helloniahoshije')
 print('new push')
+print('new new push')
 
